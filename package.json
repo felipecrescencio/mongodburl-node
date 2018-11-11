@@ -1,0 +1,25 @@
+{
+  "name": "mongodburl",
+  "version": "1.0.0",
+  "main": "./lib/mongodburl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Crescencio",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipecrescencio/mongodburl-node"
+  },
+  "keywords": [
+    "mongo",
+    "mongodb",
+    "connection",
+    "url"
+  ],
+  "bugs": {
+    "url": "https://github.com/felipecrescencio/mongodburl-node/issues"
+  },
+  "homepage": "https://github.com/felipecrescencio/mongodburl-node#readme",
+  "description": ""
+}
